@@ -5,11 +5,10 @@ permalink: /about/
 published: true
 ---
 
-Some information about me!
+Hello there! I'm a level designer and educator, I reseach in best practices for design and try to simplify subjects to make them readable.
 
-### More Information
-
-More awesome stuff!
+### Visit my Patreon site to find Level Design blogposts
+https://www.patreon.com/tommynorberg
 
 ### Contact me
 
